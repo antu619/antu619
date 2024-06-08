@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/antu619/antu619/blob/main/mern-stack.png)
+![MasterHead](https://github.com/antu619/antu619/blob/main/github-banner.png)
 
 <h1 align="center">Hi 👋, I'm Antu Chandra Das</h1>
 <h3 align="center">I'm a passionate Full Stack Developer specializing in the MERN (MongoDB, Express.js, React.js, Node.js) stack. I love building web applications and learning new technologies.</h3>
