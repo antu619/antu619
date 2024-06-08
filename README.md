@@ -1,9 +1,11 @@
-[Banner](https://github.com/antu619/antu619/main/mern-stack.png)
+![MasterHead](https://github.com/antu619/antu619/blob/main/mern-stack.png)
 
 <h1 align="center">Hi 👋, I'm Antu Chandra Das</h1>
 <h3 align="center">I'm a passionate Full Stack Developer specializing in the MERN (MongoDB, Express.js, React.js, Node.js) stack. I love building web applications and learning new technologies.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=antu619" alt="antu619" /></a> </p>
+<img align="right" width="400" alt="Coding Image" src="https://github.com/antu619/antu619/blob/main/Code-typing-bro.png"/>
+
+<p align="left"> <a href="https://twitter.com/antud19" target="blank"><img src="https://img.shields.io/twitter/follow/antud19?logo=twitter&style=for-the-badge" alt="antud19" /></a> </p>
 
 - 🌱 I’m currently learning **TypeScript.js, Next.js**
 
@@ -30,3 +32,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=antu619&show_icons=true&locale=en&layout=compact" alt="antu619" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=antu619&show_icons=true&locale=en" alt="antu619" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=antu619&" alt="antu619" /></p>
+
